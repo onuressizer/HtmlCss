@@ -1,0 +1,40 @@
+body{background-image: url(../more-leaves.png);
+background-position: center;
+background-size: cover;}
+
+nav.menu{background-color: rgb(255, 159, 127);
+text-align: center;
+padding: 1rem;
+border-radius: 10px;}
+nav.menu a{margin-right : 2rem;
+text-decoration: none;
+font-size: 1.3rem;
+color: black;}
+nav.menu a:hover{background-color: green;
+color: lightgreen;}
+
+section{width: 40%;}
+
+section h2 {background-color: pink;
+color: black;
+text-align: center;}
+
+section h2:hover{
+    background-color: green;
+    color: lightgreen;
+    font-size: 2rem;
+}
+
+section p{
+    text-align: center;
+    padding:  1rem;
+    font-size: 1.2rem;
+}
+
+section div{
+
+    background-color: yellow;
+}
+.baslik2 li{list-style-type:"🍌";
+padding: 0.5rem;
+font-size: 1.2rem;}
